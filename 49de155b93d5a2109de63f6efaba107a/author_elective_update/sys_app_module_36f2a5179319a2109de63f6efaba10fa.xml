@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="AI IT Support Chatbot">32f2ad539319a2109de63f6efaba1056</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Create New</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1030833_ai_it_su_custom_request</name>
+        <order>11</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-09 09:41:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>36f2a5179319a2109de63f6efaba10fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AI IT Support Chatbot" source="x_1030833_ai_it_su">49de155b93d5a2109de63f6efaba107a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AI IT Support Chatbot">49de155b93d5a2109de63f6efaba107a</sys_scope>
+        <sys_update_name>sys_app_module_36f2a5179319a2109de63f6efaba10fa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-09 09:41:11</sys_updated_on>
+        <timeline_page/>
+        <title>Create New</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="AI IT Support Chatbot">49de155b93d5a2109de63f6efaba107a</application>
+        <file_path/>
+        <instance_id>0053ed74ff70ae54c812f8e4fc4fd971</instance_id>
+        <instance_name>dev319198</instance_name>
+        <name>sys_app_module_36f2a5179319a2109de63f6efaba10fa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="AI IT Support Chatbot">32f2ad539319a2109de63f6efaba1056</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>NEW</link_type><map_page/><mobile_title>Create New</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1030833_ai_it_su_custom_request</name><order>11</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-09 09:41:11</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>36f2a5179319a2109de63f6efaba10fa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Create New</sys_name><sys_overrides/><sys_package display_value="AI IT Support Chatbot" source="x_1030833_ai_it_su">49de155b93d5a2109de63f6efaba107a</sys_package><sys_policy/><sys_scope display_value="AI IT Support Chatbot">49de155b93d5a2109de63f6efaba107a</sys_scope><sys_update_name>sys_app_module_36f2a5179319a2109de63f6efaba10fa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-09 09:41:11</sys_updated_on><timeline_page/><title>Create New</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>742569348</payload_hash>
+        <record_name>Create New</record_name>
+        <reverted_from/>
+        <source>0dde1d9f93d5a2109de63f6efaba10c5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-09 09:41:11</sys_created_on>
+        <sys_id>b2f2a5179319a2109de63f6efaba10fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196b46b95650000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-09 09:41:11</sys_updated_on>
+        <type>Module</type>
+        <update_guid>b6f2a517a319a2106e4e65749fd3c7fb</update_guid>
+        <update_guid_history>b6f2a517a319a2106e4e65749fd3c7fb:742569348</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Create New">9d6aa99f9319a2109de63f6efaba10cc</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-09 10:13:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>4bee9921f70744ce8ee3f9f6636ca031</sys_id>
+        <sys_metadata>36f2a5179319a2109de63f6efaba10fa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_package display_value="AI IT Support Chatbot" source="x_1030833_ai_it_su">49de155b93d5a2109de63f6efaba107a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="AI IT Support Chatbot">49de155b93d5a2109de63f6efaba107a</sys_scope>
+        <sys_scope_delete display_value="">2e05d71f9921423ea824336064423744</sys_scope_delete>
+        <sys_update_name>sys_app_module_36f2a5179319a2109de63f6efaba10fa</sys_update_name>
+        <sys_update_version display_value="sys_app_module_36f2a5179319a2109de63f6efaba10fa">b2f2a5179319a2109de63f6efaba10fc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-09 10:13:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

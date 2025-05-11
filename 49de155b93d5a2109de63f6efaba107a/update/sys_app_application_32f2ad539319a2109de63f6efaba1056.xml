@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>AI powered Virtual Agent for IT Service Automation</description>
+        <device_type>browser</device_type>
+        <hint>AI powered Virtual Agent for IT Service Automation</hint>
+        <name/>
+        <order/>
+        <roles>x_1030833_ai_it_su.nlu_admin,x_1030833_ai_it_su.va_admin,x_1030833_ai_it_su.flow_designer,x_1030833_ai_it_su.catalog_admin,x_1030833_ai_it_su.kb_admin,x_1030833_ai_it_su.incident_manager,x_1030833_ai_it_su.itil,x_1030833_ai_it_su.admin,x_1030833_ai_it_su.predict_admin,x_1030833_ai_it_su.support_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-09 09:41:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>32f2ad539319a2109de63f6efaba1056</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AI IT Support Chatbot</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AI IT Support Chatbot" source="x_1030833_ai_it_su">49de155b93d5a2109de63f6efaba107a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AI IT Support Chatbot">49de155b93d5a2109de63f6efaba107a</sys_scope>
+        <sys_update_name>sys_app_application_32f2ad539319a2109de63f6efaba1056</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-09 09:41:11</sys_updated_on>
+        <title>AI IT Support Chatbot</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <caller_access/>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <filter_extension/>
+        <is_extendable>false</is_extendable>
+        <label>Chatbot Interaction Log</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_1030833_ai_it_su_chatbot_interaction_log</name>
+        <number_ref display_value="CHIN">11a1e5939319a2109de63f6efaba1043</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-09 09:35:20</sys_created_on>
+        <sys_id>4da1e5939319a2109de63f6efaba1012</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Chatbot Interaction Log</sys_name>
+        <sys_package display_value="AI IT Support Chatbot" source="x_1030833_ai_it_su">49de155b93d5a2109de63f6efaba107a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AI IT Support Chatbot">49de155b93d5a2109de63f6efaba107a</sys_scope>
+        <sys_update_name>sys_db_object_4da1e5939319a2109de63f6efaba1012</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-09 09:57:50</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="AI IT Support Chatbot">49de155b93d5a2109de63f6efaba107a</application>
+        <file_path/>
+        <instance_id>0053ed74ff70ae54c812f8e4fc4fd971</instance_id>
+        <instance_name>dev319198</instance_name>
+        <name>sys_db_object_4da1e5939319a2109de63f6efaba1012</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>true</actions_access><alter_access>true</alter_access><caller_access/><client_scripts_access>true</client_scripts_access><configuration_access>false</configuration_access><create_access>true</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><filter_extension/><is_extendable>false</is_extendable><label>Chatbot Interaction Log</label><live_feed_enabled>false</live_feed_enabled><name>x_1030833_ai_it_su_chatbot_interaction_log</name><number_ref display_value="CHIN">11a1e5939319a2109de63f6efaba1043</number_ref><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-09 09:35:20</sys_created_on><sys_id>4da1e5939319a2109de63f6efaba1012</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Chatbot Interaction Log</sys_name><sys_package display_value="AI IT Support Chatbot" source="x_1030833_ai_it_su">49de155b93d5a2109de63f6efaba107a</sys_package><sys_policy/><sys_scope display_value="AI IT Support Chatbot">49de155b93d5a2109de63f6efaba107a</sys_scope><sys_update_name>sys_db_object_4da1e5939319a2109de63f6efaba1012</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-09 09:57:50</sys_updated_on><update_access>true</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>-376246708</payload_hash>
+        <record_name>Chatbot Interaction Log</record_name>
+        <reverted_from/>
+        <source>0dde1d9f93d5a2109de63f6efaba10c5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-09 09:57:50</sys_created_on>
+        <sys_id>72c6e55b9319a2109de63f6efaba100d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196b47ad3340000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-09 09:57:50</sys_updated_on>
+        <type>Table</type>
+        <update_guid>3ac6e55bc719a21032508c1eaf607d0c</update_guid>
+        <update_guid_history>3ac6e55bc719a21032508c1eaf607d0c:-376246708,c9a1e5931919a210f9b26fdcf7841541:1669658946</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-09 10:06:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>70f089ddbf584bf5a6d0b15096cfc4b9</sys_id>
+        <sys_metadata>4da1e5939319a2109de63f6efaba1012</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Chatbot Interaction Log</sys_name>
+        <sys_package display_value="AI IT Support Chatbot" source="x_1030833_ai_it_su">49de155b93d5a2109de63f6efaba107a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="AI IT Support Chatbot">49de155b93d5a2109de63f6efaba107a</sys_scope>
+        <sys_scope_delete display_value="">2e05d71f9921423ea824336064423744</sys_scope_delete>
+        <sys_update_name>sys_db_object_4da1e5939319a2109de63f6efaba1012</sys_update_name>
+        <sys_update_version display_value="sys_db_object_4da1e5939319a2109de63f6efaba1012">72c6e55b9319a2109de63f6efaba100d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-09 10:06:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

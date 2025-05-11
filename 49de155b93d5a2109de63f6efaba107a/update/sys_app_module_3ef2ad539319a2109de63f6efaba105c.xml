@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="AI IT Support Chatbot">32f2ad539319a2109de63f6efaba1056</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>Chatbot Feedback</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>1</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-09 09:41:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3ef2ad539319a2109de63f6efaba105c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Chatbot Feedback</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AI IT Support Chatbot" source="x_1030833_ai_it_su">49de155b93d5a2109de63f6efaba107a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AI IT Support Chatbot">49de155b93d5a2109de63f6efaba107a</sys_scope>
+        <sys_update_name>sys_app_module_3ef2ad539319a2109de63f6efaba105c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-09 09:41:11</sys_updated_on>
+        <timeline_page/>
+        <title>Chatbot Feedback</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

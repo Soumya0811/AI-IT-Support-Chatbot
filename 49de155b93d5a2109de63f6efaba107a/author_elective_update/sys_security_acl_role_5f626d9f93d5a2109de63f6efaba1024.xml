@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-09 09:38:46</sys_created_on>
+        <sys_id>5f626d9f93d5a2109de63f6efaba1024</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1030833_ai_it_su_va_session_tracker.x_1030833_ai_it_su.nlu_admin</sys_name>
+        <sys_package display_value="AI IT Support Chatbot" source="x_1030833_ai_it_su">49de155b93d5a2109de63f6efaba107a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AI IT Support Chatbot">49de155b93d5a2109de63f6efaba107a</sys_scope>
+        <sys_security_acl display_value="x_1030833_ai_it_su_va_session_tracker">17626d9f93d5a2109de63f6efaba1021</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_5f626d9f93d5a2109de63f6efaba1024</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-09 09:38:46</sys_updated_on>
+        <sys_user_role display_value="x_1030833_ai_it_su.nlu_admin" name="x_1030833_ai_it_su.nlu_admin">df9f919f93d5a2109de63f6efaba1013</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="AI IT Support Chatbot">49de155b93d5a2109de63f6efaba107a</application>
+        <file_path/>
+        <instance_id>0053ed74ff70ae54c812f8e4fc4fd971</instance_id>
+        <instance_name>dev319198</instance_name>
+        <name>sys_security_acl_role_5f626d9f93d5a2109de63f6efaba1024</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-09 09:38:46</sys_created_on><sys_id>5f626d9f93d5a2109de63f6efaba1024</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1030833_ai_it_su_va_session_tracker.x_1030833_ai_it_su.nlu_admin</sys_name><sys_package display_value="AI IT Support Chatbot" source="x_1030833_ai_it_su">49de155b93d5a2109de63f6efaba107a</sys_package><sys_policy/><sys_scope display_value="AI IT Support Chatbot">49de155b93d5a2109de63f6efaba107a</sys_scope><sys_security_acl display_value="x_1030833_ai_it_su_va_session_tracker">17626d9f93d5a2109de63f6efaba1021</sys_security_acl><sys_update_name>sys_security_acl_role_5f626d9f93d5a2109de63f6efaba1024</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-09 09:38:46</sys_updated_on><sys_user_role display_value="x_1030833_ai_it_su.nlu_admin" name="x_1030833_ai_it_su.nlu_admin">df9f919f93d5a2109de63f6efaba1013</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1121574263</payload_hash>
+        <record_name>x_1030833_ai_it_su_va_session_tracker.x_1030833_ai_it_su.nlu_admin</record_name>
+        <reverted_from/>
+        <source>0dde1d9f93d5a2109de63f6efaba10c5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-09 09:38:46</sys_created_on>
+        <sys_id>976229d39319a2109de63f6efaba10b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196b4695d260000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-09 09:38:46</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>9b6229d31319a2106518a971a14ad7b3</update_guid>
+        <update_guid_history>9b6229d31319a2106518a971a14ad7b3:-1121574263</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1030833_ai_it_su_va_session_tracker.x_1030833_ai_it_su.nlu_admin">c37aed9f9319a2109de63f6efaba1034</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-09 10:13:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>373750ef0c0c4c73919b7c3112221c69</sys_id>
+        <sys_metadata>5f626d9f93d5a2109de63f6efaba1024</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1030833_ai_it_su_va_session_tracker.x_1030833_ai_it_su.nlu_admin</sys_name>
+        <sys_package display_value="AI IT Support Chatbot" source="x_1030833_ai_it_su">49de155b93d5a2109de63f6efaba107a</sys_package>
+        <sys_parent display_value="">17626d9f93d5a2109de63f6efaba1021</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="AI IT Support Chatbot">49de155b93d5a2109de63f6efaba107a</sys_scope>
+        <sys_scope_delete display_value="">2e05d71f9921423ea824336064423744</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_5f626d9f93d5a2109de63f6efaba1024</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_5f626d9f93d5a2109de63f6efaba1024">976229d39319a2109de63f6efaba10b4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-09 10:13:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

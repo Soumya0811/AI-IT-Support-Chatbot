@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="escalated_to_agent" table="x_1030833_ai_it_su_va_session_tracker">
+        <active>true</active>
+        <array>false</array>
+        <attributes/>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Escalated to Agent </column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>escalated_to_agent</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="">boolean</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_1030833_ai_it_su_va_session_tracker</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-09 09:38:41</sys_created_on>
+        <sys_id>966229d39319a2109de63f6efaba1012</sys_id>
+        <sys_name>Escalated to Agent </sys_name>
+        <sys_package display_value="AI IT Support Chatbot" source="x_1030833_ai_it_su">49de155b93d5a2109de63f6efaba107a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AI IT Support Chatbot">49de155b93d5a2109de63f6efaba107a</sys_scope>
+        <sys_update_name>sys_dictionary_x_1030833_ai_it_su_va_session_tracker_escalated_to_agent</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-09 09:38:41</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="AI IT Support Chatbot">49de155b93d5a2109de63f6efaba107a</application>
+        <file_path/>
+        <instance_id>0053ed74ff70ae54c812f8e4fc4fd971</instance_id>
+        <instance_name>dev319198</instance_name>
+        <name>sys_dictionary_x_1030833_ai_it_su_va_session_tracker_escalated_to_agent</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="escalated_to_agent" table="x_1030833_ai_it_su_va_session_tracker"><active>true</active><array>false</array><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Escalated to Agent </column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>escalated_to_agent</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="">boolean</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_1030833_ai_it_su_va_session_tracker</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-09 09:38:41</sys_created_on><sys_id>966229d39319a2109de63f6efaba1012</sys_id><sys_name>Escalated to Agent </sys_name><sys_package display_value="AI IT Support Chatbot" source="x_1030833_ai_it_su">49de155b93d5a2109de63f6efaba107a</sys_package><sys_policy/><sys_scope display_value="AI IT Support Chatbot">49de155b93d5a2109de63f6efaba107a</sys_scope><sys_update_name>sys_dictionary_x_1030833_ai_it_su_va_session_tracker_escalated_to_agent</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-09 09:38:41</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>-1978895177</payload_hash>
+        <record_name>VA session Tracker.Escalated to Agent </record_name>
+        <reverted_from/>
+        <source>0dde1d9f93d5a2109de63f6efaba10c5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-09 09:38:42</sys_created_on>
+        <sys_id>a26229d39319a2109de63f6efaba1060</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196b4694f460000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-09 09:38:42</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>e66229d3fe19a210d78727f279acf25f</update_guid>
+        <update_guid_history>e66229d3fe19a210d78727f279acf25f:-1978895177</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-09 10:14:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>0b452a84b37c41d88103495b83a6f9d9</sys_id>
+        <sys_metadata>966229d39319a2109de63f6efaba1012</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Escalated to Agent </sys_name>
+        <sys_package display_value="AI IT Support Chatbot" source="x_1030833_ai_it_su">49de155b93d5a2109de63f6efaba107a</sys_package>
+        <sys_parent display_value="">4e62e5d39319a2109de63f6efaba103c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="AI IT Support Chatbot">49de155b93d5a2109de63f6efaba107a</sys_scope>
+        <sys_scope_delete display_value="">2e05d71f9921423ea824336064423744</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_1030833_ai_it_su_va_session_tracker_escalated_to_agent</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_1030833_ai_it_su_va_session_tracker_escalated_to_agent">a26229d39319a2109de63f6efaba1060</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-09 10:14:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
